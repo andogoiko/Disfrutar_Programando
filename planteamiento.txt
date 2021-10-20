@@ -1,0 +1,3 @@
+voy a tener que recorrer 2 veces el array
+
+    quiero partir las silabas (son bisílabos)

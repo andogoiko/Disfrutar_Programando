@@ -1,0 +1,16 @@
+C:\Users\Andoi\Desktop\DisfrutarProgramando\bin\Debug\net5.0\DisfrutarProgramando.exe
+C:\Users\Andoi\Desktop\DisfrutarProgramando\bin\Debug\net5.0\DisfrutarProgramando.deps.json
+C:\Users\Andoi\Desktop\DisfrutarProgramando\bin\Debug\net5.0\DisfrutarProgramando.runtimeconfig.json
+C:\Users\Andoi\Desktop\DisfrutarProgramando\bin\Debug\net5.0\DisfrutarProgramando.runtimeconfig.dev.json
+C:\Users\Andoi\Desktop\DisfrutarProgramando\bin\Debug\net5.0\DisfrutarProgramando.dll
+C:\Users\Andoi\Desktop\DisfrutarProgramando\bin\Debug\net5.0\ref\DisfrutarProgramando.dll
+C:\Users\Andoi\Desktop\DisfrutarProgramando\bin\Debug\net5.0\DisfrutarProgramando.pdb
+C:\Users\Andoi\Desktop\DisfrutarProgramando\obj\Debug\net5.0\DisfrutarProgramando.csproj.AssemblyReference.cache
+C:\Users\Andoi\Desktop\DisfrutarProgramando\obj\Debug\net5.0\DisfrutarProgramando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andoi\Desktop\DisfrutarProgramando\obj\Debug\net5.0\DisfrutarProgramando.AssemblyInfoInputs.cache
+C:\Users\Andoi\Desktop\DisfrutarProgramando\obj\Debug\net5.0\DisfrutarProgramando.AssemblyInfo.cs
+C:\Users\Andoi\Desktop\DisfrutarProgramando\obj\Debug\net5.0\DisfrutarProgramando.csproj.CoreCompileInputs.cache
+C:\Users\Andoi\Desktop\DisfrutarProgramando\obj\Debug\net5.0\DisfrutarProgramando.dll
+C:\Users\Andoi\Desktop\DisfrutarProgramando\obj\Debug\net5.0\ref\DisfrutarProgramando.dll
+C:\Users\Andoi\Desktop\DisfrutarProgramando\obj\Debug\net5.0\DisfrutarProgramando.pdb
+C:\Users\Andoi\Desktop\DisfrutarProgramando\obj\Debug\net5.0\DisfrutarProgramando.genruntimeconfig.cache
